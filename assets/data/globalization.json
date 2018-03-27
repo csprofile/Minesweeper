@@ -1,0 +1,38 @@
+{
+    "newGame": {
+        "pt-br": "Novo jogo",
+        "en-en": "New game"
+    },
+    "tutorial": {
+        "pt-br": "Tutorial",
+        "en-en": "Tutorial"
+    },
+    "gameSettings": {
+        "pt-br": "Opções",
+        "en-en": "Settings"
+    },
+    "createBoard": {
+        "pt-br": "Criar Tabuleiro",
+        "en-en": "Create Board"
+    },
+    "loadBoard": {
+        "pt-br": "Carregar Tabuleiro",
+        "en-en": "Load Board"
+    },
+    "Mario" : {
+        "pt-br" : "Mario",
+        "en-en" : "Mario"
+    },
+    "test1" : {
+        "pt-br" : "Mesa Grande",
+        "en-en" : "Large Board"
+    },
+    "test2" : {
+        "pt-br" : "Auto bombas",
+        "en-en" : "Auto bomb planting"
+    },
+    "test3" : {
+        "pt-br" : "Mesa Pequena",
+        "en-en" : "Small Board"
+    }
+}

@@ -1,0 +1,25 @@
+[
+    {
+        "globalizationId" : "newGame",
+        "action" : "newGame",
+        "class" : "game-options-item"
+    },
+    {
+        "globalizationId" : "gameSettings",
+        "action" : "gameSettings",
+        "class" : "game-options-item",
+        "options" : [{
+            "id" : 1,
+            "globalizationId" : "Mario"
+        },{
+            "id" : 2,
+            "globalizationId" : "test1"
+        },{
+            "id" : 3,
+            "globalizationId" : "test2" 
+        },{
+            "id" : 4,
+            "globalizationId" : "test3"
+        }]
+    }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "A simple game written in html5 and javascript using the PixiJS library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minesweeper",
+    "pixijs",
+    "javascript",
+    "html5"
+  ],
+  "author": "Cristian Silva",
+  "license": "ISC",
+  "dependencies": {
+    "pixi.js": "^4.7.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "a" : ["red",0],
+    "A" : ["red",1],
+    "b" : ["green",0],
+    "B" : ["green",1],
+    "c" : ["blue",0],
+    "C" : ["blue",1],
+    "d" : ["yellow",0],
+    "D" : ["yellow",1],
+    "e" : ["white",0],
+    "E" : ["white",1],
+    "f" : ["brown",0],
+    "F" : ["brown",1],
+    "g" : ["sandybrown",0],
+    "G" : ["sandybrown",0],
+    "h" : ["black", 0],
+    "H" : ["black", 1]
+}

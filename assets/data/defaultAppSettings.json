@@ -1,0 +1,6 @@
+{
+    "defaultCulture"     : "en-en",
+    "gameContainerDivId" : "game-container",
+    "gameMenuDivId"      : "game-menu-container",
+    "tileSize"           : 20
+}

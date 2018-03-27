@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <title> Minesweeper </title>
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1">
+        <meta charset="utf-8">
+
+        <script src="node_modules/pixi.js/dist/pixi.min.js"></script>
+
+        <script src="js/controllers/game.js"></script>
+        <script src="js/controllers/uiEvents.js"></script>
+        <script src="js/controllers/gameEvents.js"></script>
+        <script src="js/controllers/gameBoard.js"></script>
+        <script src="js/controllers/gameMenu.js"></script>
+
+        <script src="js/shared/globalization.js"></script>
+
+        <script src="js/app.js"></script>
+    </head>
+    <body>
+        <div id="game-menu-container"></div>
+        <canvas id="game-container" width="420px" height="420px"></canvas>
+
+
+        <script>
+            (function(app){
+                var app = new app();
+                app.load();
+            })(app);
+        </script>
+    </body>
+</html>
